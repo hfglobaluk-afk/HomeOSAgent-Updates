@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>HomeOSAgent updates</title>
+    <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
+    <item>
+      <title>HomeOSAgent 1.7.9</title>
+      <pubDate>Tue, 10 Nov 2026 21:24:43 +0000</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>1.7.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>HomeOSAgent desktop update. Your household data and workspace remain intact.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.9/HomeOSAgent-1.7.9-macOS-Intel.zip" length="13429165" type="application/octet-stream" sparkle:edSignature="xMR/XqCc+MO2Z1EVCk48wHTt42DUUdUhponQ1Hscr28q+1pGl6k6MbICG5le3afK+3T0NtO2io+Wwn2Qy9tFDw=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: DTRQ9/le/0OEl0GrDZphCU3DXetEdy5ew5nLmnyxjOrZBzXbCp20xpubZe62qDxpu7suF5E7Aen2Ej0OIyoQBQ==
+length: 1244
+-->
