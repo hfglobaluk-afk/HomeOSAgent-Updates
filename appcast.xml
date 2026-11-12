@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.12</title>
-      <pubDate>Wed, 11 Nov 2026 21:25:57 +0000</pubDate>
-      <sparkle:version>84</sparkle:version>
-      <sparkle:shortVersionString>1.7.12</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.13</title>
+      <pubDate>Thu, 12 Nov 2026 16:33:55 +0000</pubDate>
+      <sparkle:version>85</sparkle:version>
+      <sparkle:shortVersionString>1.7.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Telegram reconnects by itself after an internet drop.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.12/HomeOSAgent-1.7.12-macOS-Intel.zip" length="13688526" type="application/octet-stream" sparkle:edSignature="BzFouCslFH31GGIgPPuxE6IUVwdxdyBMKJ9lhj9cbH3lGT24JARPtpP73bx048+2dNBe3+hwdCj5xPHMYdkdBQ=="></enclosure>
+      <description>The Keychain password box asks once instead of over and over.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.13/HomeOSAgent-1.7.13-macOS-Intel.zip" length="13723753" type="application/octet-stream" sparkle:edSignature="npGxJyiotgLt/G5ybARQoF7YfmajkqS28cv1LV5S385fn7WEi1k+DnkzqQQbCtPELr1DserOcCZeQQRTS2TgAw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: D2Q75bwbJWcQ7KjG14d9m0iTlPzlbKQOEfODTxfjx+HxbX5301osY3xRWMektpZ4ZQzDs8B0Es+FIgx+DyhFBg==
-length: 1225
+edSignature: eRRO1lLH0Fl2Y8Yi+fp3D8rWiTdwEpQDY627SAJ7XhtrZMnslMUl95FvtkCK+RLTDZG+pJEzdCSk1d/YqtN4Ag==
+length: 1233
 -->
