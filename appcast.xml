@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.13</title>
-      <pubDate>Thu, 12 Nov 2026 16:33:55 +0000</pubDate>
-      <sparkle:version>85</sparkle:version>
-      <sparkle:shortVersionString>1.7.13</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.14</title>
+      <pubDate>Fri, 13 Nov 2026 16:53:10 +0000</pubDate>
+      <sparkle:version>86</sparkle:version>
+      <sparkle:shortVersionString>1.7.14</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>The Keychain password box asks once instead of over and over.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.13/HomeOSAgent-1.7.13-macOS-Intel.zip" length="13723753" type="application/octet-stream" sparkle:edSignature="npGxJyiotgLt/G5ybARQoF7YfmajkqS28cv1LV5S385fn7WEi1k+DnkzqQQbCtPELr1DserOcCZeQQRTS2TgAw=="></enclosure>
+      <description>Dashboards and apps Alfred builds open at their own localhost address.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.14/HomeOSAgent-1.7.14-macOS-Intel.zip" length="13898403" type="application/octet-stream" sparkle:edSignature="GKKaDH3EowvFS2Cp7xIcn2ksmQ9QNHYd9Rnn9efQOH0WHeWEcM7rXgIIyKt8SCi4TqxLeU6xnCC0bBHwHAGYAw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: eRRO1lLH0Fl2Y8Yi+fp3D8rWiTdwEpQDY627SAJ7XhtrZMnslMUl95FvtkCK+RLTDZG+pJEzdCSk1d/YqtN4Ag==
-length: 1233
+edSignature: /GClbMf66uxCxT5MoE7vP+g6tNeuk9IiEDD07QE4CdL1JKRJg7USmz2JN5wnaNaWfjn9Wk+1Uvkf7CAwILY8AQ==
+length: 1242
 -->
