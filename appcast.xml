@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.14</title>
-      <pubDate>Fri, 13 Nov 2026 16:53:10 +0000</pubDate>
-      <sparkle:version>86</sparkle:version>
-      <sparkle:shortVersionString>1.7.14</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.15</title>
+      <pubDate>Fri, 13 Nov 2026 18:21:14 +0000</pubDate>
+      <sparkle:version>87</sparkle:version>
+      <sparkle:shortVersionString>1.7.15</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Dashboards and apps Alfred builds open at their own localhost address.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.14/HomeOSAgent-1.7.14-macOS-Intel.zip" length="13898403" type="application/octet-stream" sparkle:edSignature="GKKaDH3EowvFS2Cp7xIcn2ksmQ9QNHYd9Rnn9efQOH0WHeWEcM7rXgIIyKt8SCi4TqxLeU6xnCC0bBHwHAGYAw=="></enclosure>
+      <description>Local apps start reliably and only you can let a page talk to Alfred.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.15/HomeOSAgent-1.7.15-macOS-Intel.zip" length="13924129" type="application/octet-stream" sparkle:edSignature="QrhsysOep4Xc7qDcvQFdUX//PTl3p5QP+tMqwjIXB+a8tpxIJb84lOehsRrDuKOeAyuB9O2sIn9VjrrvmxXGDg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /GClbMf66uxCxT5MoE7vP+g6tNeuk9IiEDD07QE4CdL1JKRJg7USmz2JN5wnaNaWfjn9Wk+1Uvkf7CAwILY8AQ==
-length: 1242
+edSignature: oNs6nMIgVqyoOv9C8iqocbkKfBRbqIz+mP+9/PoKcz+nSe0slpYwNx0Qylo2I3VeQFC556iZnTH5i8J3C3WcAA==
+length: 1241
 -->
