@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.15</title>
-      <pubDate>Fri, 13 Nov 2026 18:21:14 +0000</pubDate>
-      <sparkle:version>87</sparkle:version>
-      <sparkle:shortVersionString>1.7.15</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.16</title>
+      <pubDate>Sat, 14 Nov 2026 00:41:14 +0000</pubDate>
+      <sparkle:version>88</sparkle:version>
+      <sparkle:shortVersionString>1.7.16</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Local apps start reliably and only you can let a page talk to Alfred.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.15/HomeOSAgent-1.7.15-macOS-Intel.zip" length="13924129" type="application/octet-stream" sparkle:edSignature="QrhsysOep4Xc7qDcvQFdUX//PTl3p5QP+tMqwjIXB+a8tpxIJb84lOehsRrDuKOeAyuB9O2sIn9VjrrvmxXGDg=="></enclosure>
+      <description>Dashboards never touch Alfred's memory, so Telegram and tasks stop getting paused.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.16/HomeOSAgent-1.7.16-macOS-Intel.zip" length="13955492" type="application/octet-stream" sparkle:edSignature="i+z9W3u0e5mkWl9ye0+EVq3doIKNaKIdGZajufL/J26uAbEF26qxrd1QkHaQ39OS0Um8z9rR5hZ1MTnqLikFDw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: oNs6nMIgVqyoOv9C8iqocbkKfBRbqIz+mP+9/PoKcz+nSe0slpYwNx0Qylo2I3VeQFC556iZnTH5i8J3C3WcAA==
-length: 1241
+edSignature: YL0Erui30XNp4ms1jB+ePtKPvySr3fM6OQT2BnlyNgCAwPkK20FAH+7SJSFeRLwxQLO4/6KLdALjlLJ7b2hqBw==
+length: 1254
 -->
