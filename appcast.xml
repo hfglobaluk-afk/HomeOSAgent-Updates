@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.17</title>
-      <pubDate>Sat, 14 Nov 2026 10:57:06 +0000</pubDate>
-      <sparkle:version>89</sparkle:version>
-      <sparkle:shortVersionString>1.7.17</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.18</title>
+      <pubDate>Sat, 14 Nov 2026 14:21:41 +0000</pubDate>
+      <sparkle:version>90</sparkle:version>
+      <sparkle:shortVersionString>1.7.18</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Dashboards show Alfred's replies and Alfred builds them clickable.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.17/HomeOSAgent-1.7.17-macOS-Intel.zip" length="13956860" type="application/octet-stream" sparkle:edSignature="8UgDzv1eebvJh9ZPYSQFuqMUpLltqxTMIaIwvw8hZtH6qQp4y7OR6JgU2ct25NJ8Nl8nY3eTb96FEndN7EaeBQ=="></enclosure>
+      <description>Your Brain as a live map on your dashboard, read only and off until you allow it.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.18/HomeOSAgent-1.7.18-macOS-Intel.zip" length="13994548" type="application/octet-stream" sparkle:edSignature="fF7ZKvAsCjXYOf/t26UmZAitfowaXzNUdWwCtTH0vToUWMb7owEELLNzuJmC0omTLKk4V35scaHErzgG08fGCg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: uBUuGeyIkhodQ3w+/0aGbfasF0UwEpXI3tJm69Yfj14piqY4+l9A8OHcH4swriNYe4vKd5ce6SvIbtR88+1uAw==
-length: 1238
+edSignature: gepiGN4/WIhJTHIxSgc23QSTiQb5zqfKlYrEvXzHC6+SfIgSgC8BPKOx7NDndjuHrDA8ETiXgHTnq6MFjFUEAQ==
+length: 1253
 -->
