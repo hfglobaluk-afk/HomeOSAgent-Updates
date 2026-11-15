@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.19</title>
-      <pubDate>Sat, 14 Nov 2026 19:41:10 +0000</pubDate>
-      <sparkle:version>91</sparkle:version>
-      <sparkle:shortVersionString>1.7.19</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.20</title>
+      <pubDate>Sun, 15 Nov 2026 23:16:26 +0000</pubDate>
+      <sparkle:version>92</sparkle:version>
+      <sparkle:shortVersionString>1.7.20</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Alfred can hand writing, copy and website work to OmniRoute and your other brains, and your dashboard lists them all.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.19/HomeOSAgent-1.7.19-macOS-Intel.zip" length="14080357" type="application/octet-stream" sparkle:edSignature="dbS6oIFyX4ytCBqO24oKsAnRvQuH0fLrZ+2g2IhynizS1VUhC+MP3jV16aCZ/aDca8JAM7SSXUalZAyDcrpFAA=="></enclosure>
+      <description>Open your dashboards on your phone and other devices through Tailscale, with per-device pairing.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.20/HomeOSAgent-1.7.20-macOS-Intel.zip" length="14173141" type="application/octet-stream" sparkle:edSignature="Q8Hu5BlsjqQ0dI52E2MNDZcSzWpRLXwgcIRehSx4pVz3eKMB+zSbazJ0n/1BfqlMPXU2V6W0Rhk75A42tJjxDw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: vDbZ2SuDR9pq9jxHYhEL1gdrQ7oguV8GluPr1wfDdaRnYlWw1y97w3xu8sXDK1w5OcA3w4t/oSFrunqsnF+xCw==
-length: 1289
+edSignature: A57ktKUZ4XJ4sw/annxh1eaXSR/QXWMOM0ra3a+/O0qiqh9bbtNjTKPbFqAUQh99iYXjMJVKb9TlReWOd2vvDQ==
+length: 1268
 -->
