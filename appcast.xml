@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.21</title>
-      <pubDate>Mon, 16 Nov 2026 17:33:23 +0000</pubDate>
-      <sparkle:version>93</sparkle:version>
-      <sparkle:shortVersionString>1.7.21</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.22</title>
+      <pubDate>Mon, 16 Nov 2026 22:30:08 +0000</pubDate>
+      <sparkle:version>94</sparkle:version>
+      <sparkle:shortVersionString>1.7.22</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Your dashboards can show the devices connected to them, and dashboard servers restart themselves after an update.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.21/HomeOSAgent-1.7.21-macOS-Intel.zip" length="14244198" type="application/octet-stream" sparkle:edSignature="clCVVwgQJ41JC47OpD7HxozTXvpF/CWRV5tELK3DDNHJ3whGfa/l/24/oe8RUYcKW6pvOpe/OIeNNwC9NnJ4Cg=="></enclosure>
+      <description>Messages sent from a dashboard while Alfred is busy now wait their turn, and dashboards can follow replies by message number.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.22/HomeOSAgent-1.7.22-macOS-Intel.zip" length="14277632" type="application/octet-stream" sparkle:edSignature="A4DHiDuNsWq5zESl5qvGigBdb26MFPGozFuQaP9Da1kQx11kZnuu0NYBa4oTKHHOE5UHz8sNZOj0NR73VnQOBg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tE4agsQUM3cx9lPgb4h9QYYVC/i6rT5xxi+c4MWppaDIO49sMJ4+ySuJWqmprxynGbS8w/MkFH5mUgMmiYKoDw==
-length: 1285
+edSignature: PA9Ed1pWxsVxF/DMUhuu6d7++a2SigfjXSXCj6Qgd1OW4eZ7sxNKt7fHuFLWkA3xYl7IBqtChjnaMFyaHRWVBg==
+length: 1297
 -->
