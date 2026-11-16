@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.20</title>
-      <pubDate>Sun, 15 Nov 2026 23:16:26 +0000</pubDate>
-      <sparkle:version>92</sparkle:version>
-      <sparkle:shortVersionString>1.7.20</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.21</title>
+      <pubDate>Mon, 16 Nov 2026 17:33:23 +0000</pubDate>
+      <sparkle:version>93</sparkle:version>
+      <sparkle:shortVersionString>1.7.21</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Open your dashboards on your phone and other devices through Tailscale, with per-device pairing.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.20/HomeOSAgent-1.7.20-macOS-Intel.zip" length="14173141" type="application/octet-stream" sparkle:edSignature="Q8Hu5BlsjqQ0dI52E2MNDZcSzWpRLXwgcIRehSx4pVz3eKMB+zSbazJ0n/1BfqlMPXU2V6W0Rhk75A42tJjxDw=="></enclosure>
+      <description>Your dashboards can show the devices connected to them, and dashboard servers restart themselves after an update.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.21/HomeOSAgent-1.7.21-macOS-Intel.zip" length="14244198" type="application/octet-stream" sparkle:edSignature="clCVVwgQJ41JC47OpD7HxozTXvpF/CWRV5tELK3DDNHJ3whGfa/l/24/oe8RUYcKW6pvOpe/OIeNNwC9NnJ4Cg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: A57ktKUZ4XJ4sw/annxh1eaXSR/QXWMOM0ra3a+/O0qiqh9bbtNjTKPbFqAUQh99iYXjMJVKb9TlReWOd2vvDQ==
-length: 1268
+edSignature: tE4agsQUM3cx9lPgb4h9QYYVC/i6rT5xxi+c4MWppaDIO49sMJ4+ySuJWqmprxynGbS8w/MkFH5mUgMmiYKoDw==
+length: 1285
 -->
