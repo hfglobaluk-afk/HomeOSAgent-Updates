@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.24</title>
-      <pubDate>Tue, 17 Nov 2026 21:53:10 +0000</pubDate>
-      <sparkle:version>96</sparkle:version>
-      <sparkle:shortVersionString>1.7.24</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.25</title>
+      <pubDate>Thu, 19 Nov 2026 21:46:09 +0000</pubDate>
+      <sparkle:version>97</sparkle:version>
+      <sparkle:shortVersionString>1.7.25</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Alfred answers every message straight away, and Telegram stays on.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.24/HomeOSAgent-1.7.24-macOS-Intel.zip" length="14373659" type="application/octet-stream" sparkle:edSignature="FcAjG313QjZfvMTBlGUjrC6lUEEkC+vSvtnpJKfMK1F+glJgSxyrUoxPbhtvBucEIPN6dERK2joH6CCCfQPtBw=="></enclosure>
+      <description>Telegram stays on unless you pause it, and every message gets an answer.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.25/HomeOSAgent-1.7.25-macOS-Intel.zip" length="14491265" type="application/octet-stream" sparkle:edSignature="vw/A4wruRMw3eN41XrEvTORR7HyHihfeoHBskMho3McMvUUo3vGycD2rrK0T76g5LiX/YWsPs3jte0qCAJHkDA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: JxnnqsMSsdE/h55B/nsm13sdrmRwS2HsAhqTYf2q285Vjq/gAFdmYFzYWVBDQ37nnz/qlLRQ7Kj0IUefghf5AA==
-length: 1238
+edSignature: wJrMInurW2B4kIOKG68fUkHMCS0VpaYP2WaJa9QC1C3245EmLtJ3MrXbeLiZX6OjA+Kj9bENaqkONDQJ2ZVQBg==
+length: 1244
 -->
