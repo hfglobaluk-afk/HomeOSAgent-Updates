@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.25</title>
-      <pubDate>Thu, 19 Nov 2026 21:46:09 +0000</pubDate>
-      <sparkle:version>97</sparkle:version>
-      <sparkle:shortVersionString>1.7.25</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.26</title>
+      <pubDate>Fri, 20 Nov 2026 17:35:26 +0000</pubDate>
+      <sparkle:version>98</sparkle:version>
+      <sparkle:shortVersionString>1.7.26</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Telegram stays on unless you pause it, and every message gets an answer.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.25/HomeOSAgent-1.7.25-macOS-Intel.zip" length="14491265" type="application/octet-stream" sparkle:edSignature="vw/A4wruRMw3eN41XrEvTORR7HyHihfeoHBskMho3McMvUUo3vGycD2rrK0T76g5LiX/YWsPs3jte0qCAJHkDA=="></enclosure>
+      <description>Trade alerts and dashboard notifications go straight to Telegram.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.26/HomeOSAgent-1.7.26-macOS-Intel.zip" length="14543167" type="application/octet-stream" sparkle:edSignature="Tv5nxsz3Ecbqmk2UwxwbAry+hFgVKeDtK1SJcEOLI63MW8SFM0lyqukvDoDkk7HYb5Hf8v0OGuAvCf+v/FcyBg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: wJrMInurW2B4kIOKG68fUkHMCS0VpaYP2WaJa9QC1C3245EmLtJ3MrXbeLiZX6OjA+Kj9bENaqkONDQJ2ZVQBg==
-length: 1244
+edSignature: A9OAVv9ce7o9zQBSkinTcWi8usuQLEZQIQxNEU0UPsSgsfLugLxOYfLyyPIvY5cQHvILNHSO3tuu/Ec5xq5hBA==
+length: 1237
 -->
