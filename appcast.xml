@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.28</title>
-      <pubDate>Sat, 21 Nov 2026 13:47:37 +0000</pubDate>
-      <sparkle:version>100</sparkle:version>
-      <sparkle:shortVersionString>1.7.28</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.29</title>
+      <pubDate>Sat, 21 Nov 2026 19:15:12 +0000</pubDate>
+      <sparkle:version>101</sparkle:version>
+      <sparkle:shortVersionString>1.7.29</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Everything stays in the conversation you're in: dashboard messages and alerts no longer start new chats, only New conversation does, and your chat reopens after a restart.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.28/HomeOSAgent-1.7.28-macOS-Intel.zip" length="14620111" type="application/octet-stream" sparkle:edSignature="DC5Nv2cPry+ZK38Ukdu3kYHkbQP/cz8NlJSZIzdFN4mz7CpL9YUHDWBTrEKa0kptj9dChyNBoSDYgN8lR1g0Bg=="></enclosure>
+      <description>Alfred speaks with your ElevenLabs voice and switches to George by himself when the free allowance runs out, then back again. Kokoro voices run on this Mac, and pages can ask Alfred's voice to speak.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.29/HomeOSAgent-1.7.29-macOS-Intel.zip" length="14722447" type="application/octet-stream" sparkle:edSignature="zquWCTwxCMkpC2gsD8ssdwBQSnP1nKZkUormedyNO8o09bNVSE2yCPVtjDvNt4m0CCQNx8+9O1QQnSDgSxSSCg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: aI+Hrl6EJOLs5beE2Ewf3PRudcDfNds4En/xtq2yW0FJkD3aKEowCGAGeBQMHEn6J9LofMEzwWPGUKLOPOAoCA==
-length: 1344
+edSignature: 2TMWQkcju04LxDZOhxVwzFtKQBI59r3EnjU8T+OMhfP1nn2zg7VItVsC9pJsdy/U6oB1Lu7zCxHdHUGHpRDXBw==
+length: 1372
 -->
