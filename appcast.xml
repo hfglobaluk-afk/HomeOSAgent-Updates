@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.30</title>
-      <pubDate>Sun, 22 Nov 2026 12:03:58 +0000</pubDate>
-      <sparkle:version>102</sparkle:version>
-      <sparkle:shortVersionString>1.7.30</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.31</title>
+      <pubDate>Sun, 22 Nov 2026 18:19:37 +0000</pubDate>
+      <sparkle:version>103</sparkle:version>
+      <sparkle:shortVersionString>1.7.31</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>HomeOS no longer quits when the microphone changes while 'Hi Alfred' is listening.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.30/HomeOSAgent-1.7.30-macOS-Intel.zip" length="14741751" type="application/octet-stream" sparkle:edSignature="QO/LIB1JAn1E1nDV2zPIJbf61QE7TCYI7Sl5VCyZzuvwcB045Vvi3gAZ1sJ+xhNfU4WKz0UiSm0vmU+so6W+AA=="></enclosure>
+      <description>Alfred hears you while he works, and pictures in Jarvis.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.31/HomeOSAgent-1.7.31-macOS-Intel.zip" length="14820274" type="application/octet-stream" sparkle:edSignature="rh+GE2r8qijJEZyo8EXHqJ1o1MS5xcCrVFMS3bnZAVxyVuSxXH9k6xCC9jXk2qPUrbkYtLMITI+d+1oeay70DA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 46BpWfOQyoKbihGwWLnLf6ZYWFxx5ey9X8DvxT+SHXNvpLSfmF4vpgpIiJa7fsa6EMdy+XUwVIqLCHEfNBo5AA==
-length: 1255
+edSignature: zsu45Vritw50V07s91p8LgvBUVGTD/uBIMUSw2+RfNUC4AFndBHN9aTGiU/BD1GmBYxQg7en54n7AwAmOn1pDw==
+length: 1229
 -->
