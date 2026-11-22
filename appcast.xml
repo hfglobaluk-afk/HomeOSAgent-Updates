@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.29</title>
-      <pubDate>Sat, 21 Nov 2026 19:15:12 +0000</pubDate>
-      <sparkle:version>101</sparkle:version>
-      <sparkle:shortVersionString>1.7.29</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.30</title>
+      <pubDate>Sun, 22 Nov 2026 12:03:58 +0000</pubDate>
+      <sparkle:version>102</sparkle:version>
+      <sparkle:shortVersionString>1.7.30</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Alfred speaks with your ElevenLabs voice and switches to George by himself when the free allowance runs out, then back again. Kokoro voices run on this Mac, and pages can ask Alfred's voice to speak.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.29/HomeOSAgent-1.7.29-macOS-Intel.zip" length="14722447" type="application/octet-stream" sparkle:edSignature="zquWCTwxCMkpC2gsD8ssdwBQSnP1nKZkUormedyNO8o09bNVSE2yCPVtjDvNt4m0CCQNx8+9O1QQnSDgSxSSCg=="></enclosure>
+      <description>HomeOS no longer quits when the microphone changes while 'Hi Alfred' is listening.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.30/HomeOSAgent-1.7.30-macOS-Intel.zip" length="14741751" type="application/octet-stream" sparkle:edSignature="QO/LIB1JAn1E1nDV2zPIJbf61QE7TCYI7Sl5VCyZzuvwcB045Vvi3gAZ1sJ+xhNfU4WKz0UiSm0vmU+so6W+AA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2TMWQkcju04LxDZOhxVwzFtKQBI59r3EnjU8T+OMhfP1nn2zg7VItVsC9pJsdy/U6oB1Lu7zCxHdHUGHpRDXBw==
-length: 1372
+edSignature: 46BpWfOQyoKbihGwWLnLf6ZYWFxx5ey9X8DvxT+SHXNvpLSfmF4vpgpIiJa7fsa6EMdy+XUwVIqLCHEfNBo5AA==
+length: 1255
 -->
