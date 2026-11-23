@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>HomeOSAgent updates</title>
     <link>https://github.com/hfglobaluk-afk/HomeOSAgent-Updates</link>
     <item>
-      <title>HomeOSAgent 1.7.31</title>
-      <pubDate>Sun, 22 Nov 2026 18:19:37 +0000</pubDate>
-      <sparkle:version>103</sparkle:version>
-      <sparkle:shortVersionString>1.7.31</sparkle:shortVersionString>
+      <title>HomeOSAgent 1.7.32</title>
+      <pubDate>Mon, 23 Nov 2026 17:46:56 +0000</pubDate>
+      <sparkle:version>104</sparkle:version>
+      <sparkle:shortVersionString>1.7.32</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>Alfred hears you while he works, and pictures in Jarvis.</description>
-      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.31/HomeOSAgent-1.7.31-macOS-Intel.zip" length="14820274" type="application/octet-stream" sparkle:edSignature="rh+GE2r8qijJEZyo8EXHqJ1o1MS5xcCrVFMS3bnZAVxyVuSxXH9k6xCC9jXk2qPUrbkYtLMITI+d+1oeay70DA=="></enclosure>
+      <description>Alfred never hangs, and one agent per space.</description>
+      <enclosure url="https://github.com/hfglobaluk-afk/HomeOSAgent-Updates/releases/download/v1.7.32/HomeOSAgent-1.7.32-macOS-Intel.zip" length="14924115" type="application/octet-stream" sparkle:edSignature="TgYOAgnVIwYoAEKIWpW6hIUn1GnF//VaxyRE/wI9e6+65HPmGgbAlylT4CpI0B9Gbmnc++GEfMsoCNz9pe2SCA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zsu45Vritw50V07s91p8LgvBUVGTD/uBIMUSw2+RfNUC4AFndBHN9aTGiU/BD1GmBYxQg7en54n7AwAmOn1pDw==
-length: 1229
+edSignature: mDmbqyKw+QF3dGN7DDgezZGgxg2chUgrwrKd8DmnMqXAQXzGU4NFW51TQZ6YJK4z/cGZ28sygu6+oZuqkjnMBw==
+length: 1217
 -->
